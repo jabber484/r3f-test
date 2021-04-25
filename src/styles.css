@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+.Wrapper {
+  height: 30rem;
+  width: 30rem;
+  margin: auto;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.space {
+  margin: 8px 0;
+}
+
+.loading{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.213);
+}
+
+.loading2{
+  width: 100%;
+  height: 100%;
+}
+
+.offset {
+  width: 4rem;
+  margin-right: 16px;
+}
